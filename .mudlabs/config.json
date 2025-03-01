@@ -1,0 +1,10 @@
+{
+  "name": "MudLabs",
+  "version": "0.1.0",
+  "description": "VS Code-Based SaaS Development Platform",
+  "customizations": {
+    "enabled": false,
+    "theme": "default",
+    "templates": []
+  }
+}
